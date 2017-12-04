@@ -14,6 +14,7 @@
   "author": "Sapna Bapat",
   "license": "ISC",
   "dependencies": {
+    "create-react-class": "^15.6.2",
     "react": "^16.1.1",
     "react-dom": "^16.1.1"
   },
